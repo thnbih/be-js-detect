@@ -4,3 +4,4 @@ torch
 requests
 beautifulsoup4
 numpy
+gunicorn

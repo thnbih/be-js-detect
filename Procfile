@@ -1,1 +1,1 @@
-web: python flask_predict_app.py
+web: gunicorn flask_predict_app:app
