@@ -219,6 +219,3 @@ def upload_file():
 if __name__ == '__main__':
     import urllib3
     urllib3.disable_warnings()
-
-    import os
-    port = int(os.environ.get("PORT", 5000))
