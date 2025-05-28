@@ -3,3 +3,4 @@ esprima
 torch
 requests
 beautifulsoup4
+numpy
